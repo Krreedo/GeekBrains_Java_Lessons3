@@ -30,8 +30,8 @@ public class Main {
         appleFruitBox1.addFruit(new Apple(),5);
         appleFruitBox.moveToAnotherBox(appleFruitBox1);
         a = appleFruitBox1.getWeight();
-        float b = appleFruitBox.getWeight();
-        System.out.println(b);
+        float c = appleFruitBox.getWeight();
+        System.out.println(c);
         System.out.println(a);
 
 
